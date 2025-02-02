@@ -1,0 +1,24 @@
+PE Exam,First Time Volume,First Time Pass Rate (%),Repeat Volume,Repeat Pass Rate (%)
+Agricultural and Biological,18,83,1,0
+Architectural,115,59,0,0
+Chemical,378,58,122,35
+Civil: Construction,1635,49,608,32
+Civil: Geotechnical,849,52,274,34
+Civil: Structural,2813,58,821,38
+Civil: Transportation,3529,63,882,44
+Civil: Water Resources and Environmental,3573,65,703,44
+Control Systems,259,50,0,0
+Electrical and Computer: Computer Engineering,33,36,3,67
+"Electrical and Computer: Electronics, Controls, and Communications",156,71,22,55
+Electrical and Computer: Power,2040,59,874,36
+Environmental,727,71,180,39
+Fire Protection,230,76,27,37
+Industrial and Systems,95,55,21,29
+Mechanical: HVAC and Refrigeration,1347,75,328,53
+Mechanical: Machine Design and Materials,635,65,157,46
+Mechanical: Thermal and Fluid Systems,757,69,194,45
+Metallurgical and Materials,50,78,0,0
+Mining and Mineral Processing,48,65,12,25
+Naval Architecture and Marine,60,52,0,0
+Nuclear,20,65,1,0
+Petroleum,83,65,30,43

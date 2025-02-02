@@ -1,0 +1,236 @@
+pe_exam,first_time_volume,first_time_pass_rate,repeat_volume,repeat_pass_rate,year
+Agricultural and Biological,27,70,5,80,2018
+Architectural,101,62,17,6,2018
+Chemical,398,80,15,60,2018
+Civil: Construction,1724,58,1403,32,2018
+Civil: Geotechnical,1054,61,665,32,2018
+Civil: Structural,3470,64,1331,36,2018
+Civil: Transportation,3246,66,1974,39,2018
+Civil: Water Resources and Environmental,3395,70,1621,44,2018
+Control Systems,240,73,53,47,2018
+Electrical and Computer: Computer Engineering,44,59,14,36,2018
+"Electrical and Computer: Electronics, Controls, and Communications",241,64,56,20,2018
+Electrical and Computer: Power,2085,58,1215,32,2018
+Environmental,575,70,216,39,2018
+Fire Protection,189,60,77,48,2018
+Industrial and Systems,86,66,13,8,2018
+Mechanical: HVAC and Refrigeration,1281,71,383,46,2018
+Mechanical: Machine Design and Materials,1046,75,256,43,2018
+Mechanical: Thermal and Fluids Systems,1139,68,485,41,2018
+Metallurgical and Materials,63,70,11,36,2018
+Mining and Mineral Processing,61,57,15,60,2018
+Naval Architecture/Marine Engineering,46,57,14,36,2018
+Nuclear,34,71,7,29,2018
+Petroleum,187,70,51,33,2018
+Software Engineering,12,42,3,0,2018
+Agricultural and Biological,16,69,1,100,2021
+Architectural Engineering,136,60,32,34,2021
+Chemical,446,61,125,38,2021
+Civil: Construction,1874,58,1293,30,2021
+Civil: Geotechnical,1227,60,826,38,2021
+Civil: Structural,3408,61,1578,38,2021
+Civil: Transportation,3971,70,1846,46,2021
+Civil: Water Resources and Environmental,4084,69,1587,45,2021
+Control Systems,193,67,59,31,2021
+Electrical and Computer: Computer Engineering,36,67,7,29,2021
+"Electrical and Computer: Electronics, Controls, and Communications",154,62,32,22,2021
+Electrical and Computer: Power,2753,63,354,49,2021
+Environmental,720,73,168,46,2021
+Fire Protection,280,88,3,0,2021
+Industrial and Systems,142,63,1,100,2021
+Mechanical: HVAC and Refrigeration,1228,71,184,55,2021
+Mechanical: Machine Design and Materials,745,69,122,50,2021
+Mechanical: Thermal and Fluid Systems,945,67,140,51,2021
+Metallurgical and Materials,48,69,11,27,2021
+Mining and Mineral Processing,40,65,14,14,2021
+Naval Architecture and Marine,49,63,30,50,2021
+Nuclear,13,62,5,40,2021
+Petroleum,115,64,37,38,2021
+Agricultural and Biological,18,83,1,0,2023
+Architectural,115,59,0,0,2023
+Chemical,378,58,122,35,2023
+Civil: Construction,1635,49,608,32,2023
+Civil: Geotechnical,849,52,274,34,2023
+Civil: Structural,2813,58,821,38,2023
+Civil: Transportation,3529,63,882,44,2023
+Civil: Water Resources and Environmental,3573,65,703,44,2023
+Control Systems,259,50,0,0,2023
+Electrical and Computer: Computer Engineering,33,36,3,67,2023
+"Electrical and Computer: Electronics, Controls, and Communications",156,71,22,55,2023
+Electrical and Computer: Power,2040,59,874,36,2023
+Environmental,727,71,180,39,2023
+Fire Protection,230,76,27,37,2023
+Industrial and Systems,95,55,21,29,2023
+Mechanical: HVAC and Refrigeration,1347,75,328,53,2023
+Mechanical: Machine Design and Materials,635,65,157,46,2023
+Mechanical: Thermal and Fluid Systems,757,69,194,45,2023
+Metallurgical and Materials,50,78,0,0,2023
+Mining and Mineral Processing,48,65,12,25,2023
+Naval Architecture and Marine,60,52,0,0,2023
+Nuclear,20,65,1,0,2023
+Petroleum,83,65,30,43,2023
+Agricultural and Biological,13,69,5,60,2019
+Architectural Engineering,92,72,29,48,2019
+Chemical,457,74,43,37,2019
+Civil: Construction,1572,55,1400,34,2019
+Civil: Geotechnical,1048,63,747,34,2019
+Civil: Structural,2978,62,1632,43,2019
+Civil: Transportation,3131,63,2136,41,2019
+Civil: Water Resources and Environmental,3241,66,1623,41,2019
+Control Systems,224,75,61,48,2019
+Electrical and Computer: Computer Engineering,41,59,8,0,2019
+"Electrical and Computer: Electronics, Controls, and Communications",244,67,87,29,2019
+Electrical and Computer: Power,2078,56,1423,33,2019
+Environmental,684,64,158,35,2019
+Fire Protection,165,56,77,27,2019
+Industrial and Systems,60,95,25,60,2019
+Mechanical: HVAC and Refrigeration,1303,73,490,48,2019
+Mechanical: Machine Design and Materials,1048,73,266,39,2019
+Mechanical: Thermal and Fluids Systems,1023,69,420,44,2019
+Metallurgical and Materials,44,77,12,25,2019
+Mining and Mineral Processing,70,60,12,25,2019
+Naval Architecture and Marine,41,56,15,27,2019
+Nuclear,32,56,0,0,2019
+Petroleum,188,66,60,38,2019
+Software,16,50,1,100,2019
+Agricultural and Biological,33,88,0,0,2022
+Chemical,343,62,87,34,2022
+Civil: Construction,1834,51,834,38,2022
+Civil: Geotechnical,1131,52,420,30,2022
+Civil: Structural,3224,58,1071,40,2022
+Civil: Transportation,3651,64,1187,42,2022
+Civil: Water Resources and Environmental,3797,66,1109,44,2022
+Control Systems,175,67,49,43,2022
+Electrical and Computer: Computer Engineering,45,49,0,0,2022
+"Electrical and Computer: Electronics, Controls, and Communications",208,69,0,0,2022
+Electrical and Computer: Power,1842,59,718,42,2022
+Environmental,593,73,162,48,2022
+Fire Protection,236,82,22,59,2022
+Industrial and Systems,104,66,23,35,2022
+Mechanical: HVAC and Refrigeration,1206,71,285,49,2022
+Mechanical: Machine Design and Materials,656,70,130,47,2022
+Mechanical: Thermal and Fluid Systems,742,70,184,48,2022
+Metallurgical and Materials,56,82,12,25,2022
+Mining and Mineral Processing,65,51,0,0,2022
+Nuclear,17,53,2,50,2022
+Petroleum,86,56,30,27,2022
+Agricultural and Biological,0,0,0,0,2020
+Architectural Engineering,0,0,0,0,2020
+Chemical,363,65,57,28,2020
+Civil: Construction,680,61,669,36,2020
+Civil: Geotechnical,535,66,362,35,2020
+Civil: Structural,1531,63,724,41,2020
+Civil: Transportation,1510,70,1029,45,2020
+Civil: Water Resources and Environmental,1585,71,895,46,2020
+Control Systems,252,66,45,33,2020
+Electrical and Computer: Computer Engineering,35,54,8,0,2020
+"Electrical and Computer: Electronics, Controls, and Communications",154,66,44,50,2020
+Electrical and Computer: Power,1110,50,726,26,2020
+Environmental,515,69,83,42,2020
+Fire Protection,210,55,90,29,2020
+Industrial and Systems,0,0,0,0,2020
+Mechanical: HVAC and Refrigeration,1315,72,256,38,2020
+Mechanical: Machine Design and Materials,924,69,153,39,2020
+Mechanical: Thermal and Fluids Systems,1014,71,219,34,2020
+Metallurgical and Materials,58,78,9,33,2020
+Mining and Mineral Processing,42,67,30,60,2020
+Naval Architecture and Marine,0,0,0,0,2020
+Nuclear,11,55,5,20,2020
+Petroleum,228,63,0,0,2020
+Software,0,0,0,0,2020
+Agricultural and Biological,36,69,33,67,2017
+Architectural,90,82,70,87,2017
+Chemical,615,72,444,74,2017
+Civil: Construction,582,57,324,60,2017
+Civil: Geotechnical,56,65,766,65,2017
+Civil: Structural,7,67,330,68,2017
+Civil: Transportation,222,68,891,69,2017
+Civil: Water Resources and Environmental,173,70,769,72,2017
+Control Systems,231,78,162,81,2017
+Electrical and Computer: Computer Engineering,46,63,35,63,2017
+Electrical and Computer: Electronics Controls and Communications,6,50,4,50,2017
+Electrical and Computer: Power,57,79,583,65,2017
+Environmental,531,66,373,68,2017
+Fire Protection,148,66,100,69,2017
+Industrial and Systems,65,64,54,80,2017
+Mechanical: HVAC and Refrigeration,49,80,865,81,2017
+Mechanical: Machine Design and Materials,17,80,835,75,2017
+Mechanical: Thermal and Fluids Systems,279,74,991,72,2017
+Metallurgical and Materials,45,71,34,67,2017
+Mining and Mineral Processing,51,67,43,60,2017
+Naval Architecture/Marine Engineering,55,65,40,79,2017
+Nuclear,25,60,19,71,2017
+Petroleum,192,72,166,79,2017
+Software Engineering,15,66,6,71,2017
+Agricultural & Biological,24,79,19,79,2015
+Architectural,88,83,68,91,2015
+Chemical,451,70,348,73,2015
+Civil: Construction,"1,567",57,"1,320",59,2015
+Civil: Geotechnical,888,65,651,64,2015
+Civil: Structural,"2,152",70,"1,617",72,2015
+Civil: Transportation,"2,118",65,"1,820",68,2015
+Civil: Water Resources & Environmental,"1,966",71,"1,651",73,2015
+Control Systems,226,78,150,77,2015
+Electrical & Computer: Computer Engineering,42,60,30,70,2015
+Electrical & Computer: Electrical & Electronics,201,43,3,33,2015
+Electrical & Computer: Power,"1,608",62,677,32,2015
+Environmental,446,61,177,35,2015
+Fire Protection,147,64,38,34,2015
+Industrial,72,72,12,58,2015
+Mechanical: HVAC & Refrigeration,982,79,228,58,2015
+Mechanical: Thermal & Fluids Systems,866,68,222,39,2015
+Mechanical: Mechanical Systems & Materials,"1,022",68,270,42,2015
+Metallurgical & Materials,34,47,9,22,2015
+Mining & Mineral Processing,80,89,14,50,2015
+Naval Architecture/Marine Engineering,41,71,4,50,2015
+Nuclear,25,64,5,60,2015
+Petroleum,124,71,20,50,2015
+Software Engineering,16,63,1,100,2015
+Agricultural and Biological,26,69,6,50,2014
+Architectural,65,71,12,17,2014
+Chemical,449,69,151,32,2014
+Civil: Construction,"1,420",58,"1,437",30,2014
+Civil: Geotechnical,894,69,584,30,2014
+Civil: Structural,"1,965",76,717,47,2014
+Civil: Transportation,"2,092",63,"1,992",33,2014
+Civil: Water Resources and Environmental,"1,717",70,"1,045",33,2014
+Control Systems,186,76,63,52,2014
+Electrical and Computer: Computer Engineering,65,72,28,18,2014
+Electrical and Computer: Electrical and Electronics,198,70,105,24,2014
+Electrical and Computer: Power,"1,611",65,"1,210",36,2014
+Environmental,466,57,294,31,2014
+Fire Protection,143,69,77,36,2014
+Industrial,72,69,13,15,2014
+Mechanical: HVAC and Refrigeration,954,77,362,40,2014
+Mechanical: Mechanical Systems and Materials,988,70,329,42,2014
+Mechanical: Thermal and Fluids Systems,956,67,445,40,2014
+Metallurgical and Materials,43,63,8,0,2014
+Mining and Mineral Processing,62,71,19,37,2014
+Naval Architecture/Marine Engineering,47,81,12,67,2014
+Nuclear,38,53,9,44,2014
+Petroleum,112,75,34,53,2014
+Software Engineering,14,64,2,50,2014
+Agricultural and Biological,29,72,5,60,2016
+Architectural,87,85,6,33,2016
+Chemical,477,75,163,34,2016
+Civil: Construction,469,60,405,25,2016
+Civil: Geotechnical,873,66,600,33,2016
+Civil: Structural,444,65,35,38,2016
+Civil: Transportation,358,69,799,39,2016
+Civil: Water Resources and Environmental,234,70,139,35,2016
+Control Systems,223,73,46,57,2016
+Electrical and Computer: Computer Engineering,58,78,14,33,2016
+Electrical and Computer: Electrical and Electronics,200,72,68,25,2016
+Electrical and Computer: Power,588,62,764,34,2016
+Environmental,438,65,136,26,2016
+Fire Protection,150,61,36,31,2016
+Industrial,73,77,9,22,2016
+Mechanical: HVAC and Refrigeration,937,79,235,43,2016
+Mechanical: Mechanical Systems and Materials,49,72,326,45,2016
+Mechanical: Thermal and Fluids Systems,905,74,203,44,2016
+Metallurgical and Materials,46,83,6,67,2016
+Mining and Mineral Processing,56,75,13,38,2016
+Naval Architecture/Marine Engineering,56,75,6,0,2016
+Nuclear,24,58,5,50,2016
+Petroleum,132,61,32,41,2016
+Software Engineering,9,56,3,33,2016

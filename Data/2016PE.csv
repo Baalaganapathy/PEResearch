@@ -1,0 +1,25 @@
+﻿Discipline,First-Time Volume,First-Time Pass Rate,Repeat Volume,Repeat Pass Rate
+Agricultural and Biological,29,72%,5,60%
+Architectural,87,85%,6,33%
+Chemical,477,75%,163,34%
+Civil: Construction,469,60%,405,25%
+Civil: Geotechnical,873,66%,600,33%
+Civil: Structural,444,65%,35,38%
+Civil: Transportation,358,69%,799,39%
+Civil: Water Resources and Environmental,234,70%,139,35%
+Control Systems,223,73%,46,57%
+Electrical and Computer: Computer Engineering,58,78%,14,33%
+Electrical and Computer: Electrical and Electronics,200,72%,68,25%
+Electrical and Computer: Power,588,62%,764,34%
+Environmental,438,65%,136,26%
+Fire Protection,150,61%,36,31%
+Industrial,73,77%,9,22%
+Mechanical: HVAC and Refrigeration,937,79%,235,43%
+Mechanical: Mechanical Systems and Materials,49,72%,326,45%
+Mechanical: Thermal and Fluids Systems,905,74%,203,44%
+Metallurgical and Materials,46,83%,6,67%
+Mining and Mineral Processing,56,75%,13,38%
+Naval Architecture/Marine Engineering,56,75%,6,0%
+Nuclear,24,58%,5,50%
+Petroleum,132,61%,32,41%
+Software Engineering,9,56%,3,33%
